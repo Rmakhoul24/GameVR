@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kamouh el Hermel
+* source:	https://sketchfab.com/3d-models/kamouh-el-hermel-992c1a41e71e40d2ab7cd773336a3a3b
+* author:	Andre.Zakhya (https://sketchfab.com/Andre.Zakhya)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kamouh el Hermel" (https://sketchfab.com/3d-models/kamouh-el-hermel-992c1a41e71e40d2ab7cd773336a3a3b) by Andre.Zakhya (https://sketchfab.com/Andre.Zakhya) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
