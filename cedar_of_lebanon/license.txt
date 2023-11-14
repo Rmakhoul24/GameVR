@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cedar Of Lebanon
+* source:	https://sketchfab.com/3d-models/cedar-of-lebanon-6bf28d5c230a4dbcbc350ab7e4964a89
+* author:	Valery.Li (https://sketchfab.com/Valery.Li)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cedar Of Lebanon" (https://sketchfab.com/3d-models/cedar-of-lebanon-6bf28d5c230a4dbcbc350ab7e4964a89) by Valery.Li (https://sketchfab.com/Valery.Li) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
