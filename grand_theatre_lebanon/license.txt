@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grand Theatre, Lebanon
+* source:	https://sketchfab.com/3d-models/grand-theatre-lebanon-6831496abc014f328b0dfa529291a51f
+* author:	Andre.Zakhya (https://sketchfab.com/Andre.Zakhya)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grand Theatre, Lebanon" (https://sketchfab.com/3d-models/grand-theatre-lebanon-6831496abc014f328b0dfa529291a51f) by Andre.Zakhya (https://sketchfab.com/Andre.Zakhya) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
