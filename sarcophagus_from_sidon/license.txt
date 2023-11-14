@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sarcophagus from Sidon
+* source:	https://sketchfab.com/3d-models/sarcophagus-from-sidon-22ff90f57c514eb8b28c58e84af1ac85
+* author:	Fabian Mohr (https://sketchfab.com/fabianmohr)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sarcophagus from Sidon" (https://sketchfab.com/3d-models/sarcophagus-from-sidon-22ff90f57c514eb8b28c58e84af1ac85) by Fabian Mohr (https://sketchfab.com/fabianmohr) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
